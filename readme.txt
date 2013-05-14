@@ -3,7 +3,7 @@ Donate link: 76degreecreative.in/sanjay/flash-play.zip
 Tags: Video Player,Introduction Video,MP4/FLV Player
 Requires at least: 3.3.1
 Tested up to: 3.5
-Stable tag: 1.1
+Stable tag: 0.9
 
 
 Floating Player Allows You to add an introduction video to your website.If you wan't to promote any introductory video related to your site you can add it via plug in 
